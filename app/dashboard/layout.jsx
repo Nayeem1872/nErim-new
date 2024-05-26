@@ -67,7 +67,7 @@ export default function DashboardLayout({ children }) {
     // Call the fetch function when the component mounts
     fetchData();
     setDomLoaded(true);
-  }, [router]);
+  }, []);
 
   const [collapsed, setCollapsed] = useState(false);
   const {
