@@ -1,0 +1,36 @@
+.profile {
+    height: 300px;
+    margin-top: -90px;
+    margin-left: -20px;
+    border-radius: 12px;
+    box-shadow: 0 20px 27px rgb(0 0 0 / 5%);
+    background-size: cover;
+    background-position: 50%;
+  }
+
+  
+  .avatar {
+    margin-right: 45px;
+    margin-top: 10px;
+    
+    /* Adjust the margin as needed */
+  }
+.middle{
+    margin-top: 10px;
+}
+.borderless {
+  border: none;
+  border-radius: 0;
+  resize: none;
+}
+.cardCustom {
+  background-color: #ffffff !important;
+}
+
+.cardTitle {
+  font-size: 1.8em !important;
+}
+
+.descriptionItem {
+  font-size: 1.5em !important;
+}

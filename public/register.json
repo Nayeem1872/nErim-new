@@ -1,0 +1,21 @@
+{
+  "userData": [
+    {
+      "id": 1,
+      "domain": null,
+      "org": "Cumilla University",
+      "name": "Cumilla University",
+      "phone": null,
+      "email": "devs.test2@gmail.com",
+      "email_verified_at": null,
+      "twofactor_secret": "ICQTZOT7PLDE4QEP",
+      "twofactor_status": "Disable",
+      "has_service": "no",
+      "is_admin": "Admin",
+      "dbName": "nerim_cumillauniversity_t1",
+      "dbConfigFile": "db.cumillauniversity_t1",
+      "created_at": "2024-02-18T06:39:14.000000Z",
+      "updated_at": "2024-02-20T03:28:26.000000Z"
+    }
+  ]
+}

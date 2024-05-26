@@ -1,0 +1,37 @@
+
+.inactiveLink {
+    display: flex;
+    gap: 0.25rem;
+    padding: 0.25rem;
+    /* Add any other styles you need for the inactive state */
+  }
+  
+  .activeLink {
+    display: flex;
+    gap: 0.25rem;
+    padding: 0.25rem;
+    background-color: aquamarine;
+    color: black;
+    border-radius: 0.125rem;
+    /* Add any other styles you need for the active state */
+  }
+  
+  .inactiveIcon {
+    width: 1.5rem;
+    height: 1.5rem;
+    /* Add any other styles you need for the inactive state */
+  }
+  
+  .activeIcon {
+    width: 1.5rem;
+    height: 1.5rem;
+    color: #3498db;
+    /* Add any other styles you need for the active state */
+  }
+
+  .sidebar {
+    padding-left: 20px;
+    background: #4096FF;
+    color: white;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+}

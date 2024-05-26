@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "userId": "1254",
+        "name": "json",
+        "decision": "accept",
+        "value": "accept"
+      },
+      {
+        "id": 2,
+        "userId": "1254",
+        "name": "json",
+        "decision": "transfer"
+    },
+    {
+        "id": 3,
+        "userId": "1254",
+        "name": "nayeem",
+        "decision": "manage"
+    },
+    {
+        "id": 4,
+        "userId": "1254",
+        "name": "json",
+        "decision": "avoid"
+    },
+    {
+        "id": 5,
+        "userId": "1254",
+        "name": "nayeem",
+        "decision": "reduce"
+    },
+    {
+        "id": 6,
+        "userId": "1254",
+        "name": "nayeem",
+        "decision": "mitigate"
+    }, 
+    {
+        "id": 5,
+        "userId": "1254",
+        "name": "nayeem",
+        "decision": "controls"
+    },
+    {
+        "id": 10,
+        "userId": "1254",
+        "name": "json",
+        "decision": "accept",
+        "value": "accept"
+      }
+
+
+    ]

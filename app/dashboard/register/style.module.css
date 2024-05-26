@@ -1,0 +1,14 @@
+@keyframes slideInLeft {
+    from {
+        transform: translateX(-300px);
+    }
+    to {
+        transform: translateX(10);
+    }
+}
+
+.heading {
+    animation: slideInLeft 1s ease-in 1s normal both;
+    /* background-color: aquamarine; */
+}
+

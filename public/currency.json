@@ -1,0 +1,41 @@
+
+[
+	 {
+		"symbol": "$",
+		"label": "US Dollar",
+		"symbol_native": "$",
+		"decimal_digits": 2,
+		"rounding": 0,
+		"value": "USD",
+		"label_plural": "US dollars"
+        
+        
+	},
+	 {
+		"symbol": "CA$",
+		"label": "Canadian Dollar",
+		"symbol_native": "$",
+		"decimal_digits": 2,
+		"rounding": 0,
+		"value": "CAD",
+		"label_plural": "Canadian dollars"
+	},
+	{
+		"symbol": "€",
+		"label": "Euro",
+		"symbol_native": "€",
+		"decimal_digits": 2,
+		"rounding": 0,
+		"value": "EUR",
+		"label_plural": "euros"
+	},
+	 {
+		"symbol": "AED",
+		"label": "United Arab Emirates Dirham",
+		"symbol_native": "د.إ.‏",
+		"decimal_digits": 2,
+		"rounding": 0,
+		"value": "AED",
+		"label_plural": "UAE dirhams"
+	}
+]

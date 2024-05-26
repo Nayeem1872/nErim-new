@@ -1,0 +1,8 @@
+.customInputNumber .ant-input-number-input-wrap {
+    display: none; /* Hide the input field */
+  }
+  
+  .customInputNumber .ant-input-number-handler-wrap {
+    width: 100%; /* Make sure buttons take full width */
+  }
+  

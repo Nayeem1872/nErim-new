@@ -1,0 +1,13 @@
+{
+    "title": "Finnish Title",
+    "subtitle": "Finnish Subtitle",
+    "dashboard": {
+        "Dashboard": "Africa Dashboard",
+        "Dashboard_Page": "Dashboard Page",
+        "Dashboard_Table": "Dashboard Table",
+        "RiskStatusSummary": "Risk Status Summary: ",
+        "Stacked": "Risk By Category:",
+        "Pie": "Criticality Percentage:",
+        "Tree": "Tree"
+      }
+  }
