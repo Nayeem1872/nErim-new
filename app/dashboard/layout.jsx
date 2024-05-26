@@ -55,10 +55,10 @@ export default function DashboardLayout({ children }) {
         
       } catch (error) {
         console.log(error.response.data.message);
-        if (error.response.data.message === "Unauthenticated.") {
-          // Redirect to the "/" page
-          router.push("/");
-        }
+        // if (error.response.data.message === "Unauthenticated.") {
+        //   // Redirect to the "/" page
+        //   router.push("/");
+        // }
         console.error("Error fetching data:", error);
         // You might want to handle errors here
       }
