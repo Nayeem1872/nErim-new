@@ -27,7 +27,7 @@ export default function Home() {
         if (response.status === 200) {
           // Redirect to the "/" page
           router.push("/dashboard");
-          window.location.reload();
+          // window.location.reload();
         }
       } catch (error) {
         console.log(error.response.data.message);
@@ -40,7 +40,7 @@ export default function Home() {
     // Call the fetch function when the component mounts
     fetchData();
   
-  }, [router]);
+  }, []);
 
   return (
     <>
